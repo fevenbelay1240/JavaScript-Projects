@@ -1,2 +1,2 @@
 # JavaScript-Projects
-Personal JavaScript Projects
+JavaScript Projects
